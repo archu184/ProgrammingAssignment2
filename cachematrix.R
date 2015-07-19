@@ -41,7 +41,7 @@ cacheSolve <- function(x, ...) {
 }
 
 
-########### testing with 2*2 matrix###########
+########### sample testing with 2*2 matrix###########
 ## > x<-rbind(c(1,2),c(4,5))
 ## > m = makeCacheMatrix(x)
 ##> m$get()
